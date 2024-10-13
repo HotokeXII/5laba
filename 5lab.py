@@ -1,8 +1,5 @@
 #ЛАБА №5
 #задание 1: базовый класс и методы
-import datetime
-
-
 class Book():
     title = ''
     author = ''
